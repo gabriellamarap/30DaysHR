@@ -16,7 +16,7 @@ public class Solution0 {
         
 		Scanner in = new Scanner(System.in); 
 		String inputString = in.nextLine(); 
-    in.close(); 
+    		in.close(); 
       
 		System.out.println("Hello, World.\n" + inputString);
 	}
